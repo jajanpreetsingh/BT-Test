@@ -13,7 +13,7 @@ public class MaterailController : MonoBehaviour
     private float AnimTimeInSeconds = 2f;
 
     [SerializeField]
-    private float StopDistortionInSeconds = 15;
+    private float StopDistortionInSeconds = 15f;
 
     private float tempTime = 0;
 
